@@ -40,11 +40,6 @@ Connected!!!
 ```
 
 As you can see, the simulator connect to it right away.
-
-The following is an image of the simulator:
-
-![Simulator without data](images/simulator_without_running.png)
-
 The simulator provides two datasets. The difference between them are:
 
 - The direction the car (the object) is moving.
